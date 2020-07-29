@@ -83,7 +83,7 @@ Anda dapat memperoleh materi webinar ini (data, script dan file Rmd) di <a href=
 * Kemudian pilih **Download ZIP**.  
 * Setelah selesai download, ekstrak file zip tersebut dan _double-click_ file `kemenkes-coviz.Rproj`.
 
-Atau Anda juga dapat mengakses project tersebut yang sudah tersedia di RStudio Cloud <a href="https://rstudio.cloud/project/1485346">https://rstudio.cloud/project/1485346</a>. Anda perlu login atau membuat akun terlebih dahulu jika belum mempunyai akun RStudio Cloud. Semua materi dan package yang akan digunakan sudah tersedia.
+Atau Anda juga dapat mengakses project tersebut yang sudah tersedia di RStudio Cloud <a href="https://rstudio.cloud/project/1492699">https://rstudio.cloud/project/1492699</a>. Anda perlu login atau membuat akun terlebih dahulu jika belum mempunyai akun RStudio Cloud. Semua materi dan package yang akan digunakan sudah tersedia.
 
 Jika Anda ingin memperbarui data yang sudah disediakan, Anda dapat membuka dan menjalankan script pada file `get_raw_data.R` di dalam folder R. Tentu saja Anda perlu install terlebih dahulu package yang digunakan jika Anda belum mempunyai package tersebut pada library R Anda.
 
